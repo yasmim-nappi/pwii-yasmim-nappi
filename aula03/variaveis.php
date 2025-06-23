@@ -4,6 +4,8 @@
         .texto{
             color:pink;
             background-color: white;
+            font-size: 70px;
+            font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
             }
     </style>
     <body>
