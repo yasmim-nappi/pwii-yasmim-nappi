@@ -47,27 +47,27 @@ Se está passando por este problema, **abra seu terminal na pasta de repositóri
 
 **Após se preparar, siga os 6 seguintes passos abaixo:**
 
-### 1 º passo
+### 1 º Passo
 Caso seu projeto utilize PHP, no seu terminal, execute o comando abaixo para baixar as dependências dele, que estarão presentes dentro da pasta *Vendor*:
 ````
 composer install
 ````
-### 2º passo
+### 2º Passo
 Caso o projeto utilizar Javascript, execute o seguinte comando para instalar as depedências dele:
 
     npm install
 
-### 3º passo
+### 3º Passo
 
 Após executar os comandos anteriores, se o seu projeto possui *Webpack* ou *Vite,* também é necessário utilizar o seguinte comando:
 
     npm run build
 
-### 4º passo
+### 4º Passo
 
 Após isso, será criado na **pasta *Vendor*** um arquivo chamado "**.env.example**". Clone esse arquivo na mesma pasta, porém a renomeie como apenas "**.env**".
 
-### 5º passo
+### 5º Passo
 Se mesmo assim o problema não tenha sido resolvido, significa que **você necessita de uma chave encriptada** para acessar o projeto. 
 Felizmente, é possível gerar essa chave com o seguinte comando:
 
@@ -75,7 +75,7 @@ Felizmente, é possível gerar essa chave com o seguinte comando:
 
 *Após o comando ser executado, sua chave será automaticamente utilizada.*  
 
-### 6º passo
+### 6º Passo
 Por fim, será necessário que as migrations do projeto sejam executadas para que um banco de dados seja criado, o que possibilitará enfim o seu acesso. 
 Para tal, execute o comando abaixo:
 
