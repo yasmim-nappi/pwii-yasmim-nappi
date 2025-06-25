@@ -91,4 +91,4 @@ Agora você poderá finalmente criar e testar seu aplicativo Laravel enquanto o 
 ****
 Ficamos por aqui com nosso guia, pois agora você sabe como instalar, criar e testar uma aplicação utilizando o framework Laravel.
     
-    *Boa sorte em seus desenvolvimentos! ♡*
+*Boa sorte em seus desenvolvimentos! ♡*
