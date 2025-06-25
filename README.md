@@ -57,7 +57,7 @@ Caso o projeto utilizar Javascript, execute o seguinte comando para instalar as 
 
     npm install
 
-### 3 passo
+### 3º passo
 
 Após executar os comandos anteriores, se o seu projeto possui *Webpack* ou *Vite,* também é necessário utilizar o seguinte comando:
 
