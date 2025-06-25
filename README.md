@@ -90,4 +90,4 @@ Pressione *Ctrl* enquanto clica no endereço [http://localhost:8000](http://loca
 Agora você poderá finalmente criar e testar seu aplicativo Laravel enquanto o desenvolve!
 ****
 Ficamos por aqui com nosso guia, pois agora você sabe como instalar, criar e testar uma aplicação utilizando o framework Laravel.
-*Boa sorte em seu desenvolvimentos! ♡*
+*Boa sorte em seus desenvolvimentos! ♡*
