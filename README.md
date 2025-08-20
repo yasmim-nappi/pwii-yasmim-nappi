@@ -41,9 +41,9 @@ Para acessá-lo rapidamente, pressione a tecla *Ctrl* enquanto clica sobre o end
 *******
 ## Impedimento de acesso ao servidor de desenvolvimento
 
-Porém, em casos de tentar desenvolver um projeto Laravel baixado de um repositório exterior à sua máquina, a conexão ao servidor de desenvolvimento pode ser impedida.
+Em casos de desenvolvimento de um projeto Laravel baixado de um repositório exterior à sua máquina, a conexão ao servidor de desenvolvimento pode ser impedida devido a necessidade de configurá-lo.
 
-Se está passando por este problema, **abra seu terminal na pasta de repositório em que seu projeto Laravel esteja**, além de **abri-lo no Vs.code, ou na IDE** em que esteja desenvolvendo o projeto, para que possa editar alguns arquivos necessários.
+**Abra seu terminal na pasta de repositório em que seu projeto Laravel esteja** ou **abra o terminal diretamente em seu Vs.code** para que possa editar os arquivos necessários e acelerar o processo de configuração.
 
 **Após se preparar, siga os 6 seguintes passos abaixo:**
 
